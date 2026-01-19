@@ -9,9 +9,9 @@ const FinalPage = ({
 }) => <PageWrapper>
         <div className="w-full max-w-3xl text-center">
             <div className="aspect-video w-full mb-6 rounded-xl overflow-hidden shadow-lg">
-                <iframe id="panda-2febba99-6b39-4a71-b7be-7ac53561ceb6" src="https://player-vz-0a641d40-de1.tv.pandavideo.com.br/embed/?v=2febba99-6b39-4a71-b7be-7ac53561ceb6" style={{
+                <iframe id="panda-ebcfda0f-c724-46c8-bb85-d57f96138d12" src="https://player-vz-35d0a572-7e6.tv.pandavideo.com.br/embed/?v=ebcfda0f-c724-46c8-bb85-d57f96138d12" style={{
         border: 'none'
-      }} allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture" allowFullScreen={true} width="100%" height="100%" fetchpriority="high" title="Vídeo de Apresentação do Quiz Angola" />
+      }} allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture" allowFullScreen={true} width="100%" height="100%" fetchPriority="high" title="Vídeo de Apresentação do Quiz Angola" />
             </div>
             <div className="bg-white rounded-2xl p-6 shadow-2xl mb-6 text-gray-800">
                 <CheckCircle2 className="w-10 h-10 mx-auto text-yellow-500 mb-2" />

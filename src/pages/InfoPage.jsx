@@ -16,9 +16,9 @@ const InfoPage = ({
             </div>
             <h2 className="text-white text-2xl font-bold mb-4">Marcas que apoiam</h2>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
-                <img alt="Influencer Bulayanga" class="rounded-lg shadow-lg w-full" src="https://horizons-cdn.hostinger.com/43619163-4fd6-4960-ba57-04c4420f1730/influencer-beach-c0wo-e-8-0Rgg7.jpg" />
-                <img alt="Influencer" class="rounded-lg shadow-lg w-full" src="https://horizons-cdn.hostinger.com/43619163-4fd6-4960-ba57-04c4420f1730/influencer-buluzinha-czhpekyl-jEGD1.jpg" />
-                <img alt="Influencer" class="rounded-lg shadow-lg w-full" src="https://horizons-cdn.hostinger.com/43619163-4fd6-4960-ba57-04c4420f1730/influencer-dubai-dvmenmku-5zTa1.jpg" />
+                <img alt="Marca 1" class="rounded-lg shadow-lg w-full" src="/images/b1.png" />
+                <img alt="Marca 2" class="rounded-lg shadow-lg w-full" src="/images/b2.png" />
+                <img alt="Marca 3" class="rounded-lg shadow-lg w-full" src="/images/b3.png" />
             </div>
             <div className="bg-white rounded-lg p-6 shadow-2xl mb-8">
                 <p className="text-gray-600 mb-4">Insira o seu nome para começar a jogar</p>
