@@ -175,7 +175,7 @@ function App() {
     };
 
     const handleValidate = () => {
-        window.location.href = 'https://www.kintu.org/product/9ff53dd3-eb60-400f-b017-1e68f8d2e8af';
+        window.location.href = 'https://www.kintu.org/product/797733c6-ded2-4395-9510-9cfd8bb84409';
     };
 
     const renderPage = () => {
