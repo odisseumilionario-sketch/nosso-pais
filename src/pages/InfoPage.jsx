@@ -14,7 +14,7 @@ const InfoPage = ({
                 <h1 className="text-red-600 text-2xl font-bold">Mostre que conheces Angola</h1>
                 <p className="text-gray-700">Responda 10 perguntas sobre Angola e ganhe até <span className="font-bold">165.000 Kz!</span></p>
             </div>
-            <h2 className="text-white text-2xl font-bold mb-4">Influenciadores que Apoiam esta Causa</h2>
+            <h2 className="text-white text-2xl font-bold mb-4">Marcas que apoiam</h2>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
                 <img alt="Influencer Bulayanga" class="rounded-lg shadow-lg w-full" src="https://horizons-cdn.hostinger.com/43619163-4fd6-4960-ba57-04c4420f1730/influencer-beach-c0wo-e-8-0Rgg7.jpg" />
                 <img alt="Influencer" class="rounded-lg shadow-lg w-full" src="https://horizons-cdn.hostinger.com/43619163-4fd6-4960-ba57-04c4420f1730/influencer-buluzinha-czhpekyl-jEGD1.jpg" />
