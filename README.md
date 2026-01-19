@@ -1,3 +1,1 @@
-# angola-independencia
-
 # nosso-pais
